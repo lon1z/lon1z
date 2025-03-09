@@ -31,7 +31,7 @@ I have experience in HTML, CSS, JavaScript, and I'm always eager to learn and ex
 ## Contact Me
 
 - **Email**: [lon1zhaha@gmail.com](mailto:lon1zhaha@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lon1z)
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/lon1z](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BD%D0%B5%D0%B4%D0%B7%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-a916b9355/))
 - **Twitter**: [@lon1z](https://twitter.com/lon1z)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
