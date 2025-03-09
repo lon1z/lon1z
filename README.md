@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lon1z
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 👀 About Me
+- 🌱 I’m currently learning Web technologies
+- 👀 About Me:
 
 I'm a new developer and student who loves to work on open-source projects, learn web-technologies, and build innovative solutions. 
 I have experience in HTML, CSS, JavaScript, and I'm always eager to learn and explore new technologies.
