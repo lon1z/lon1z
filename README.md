@@ -30,15 +30,11 @@ I have experience in HTML, CSS, JavaScript, and I'm always eager to learn and ex
 
 ## Contact Me
 
-- **Email**: [lon1z@example.com](mailto:lon1z@example.com)
+- **Email**: [lon1zhaha@gmail.com](mailto:lon1zhaha@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lon1z)
 - **Twitter**: [@lon1z](https://twitter.com/lon1z)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
-
----
-
-*This README was generated with ❤️ by GitHub Copilot*
 <!---
 lon1z/lon1z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
